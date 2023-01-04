@@ -14,4 +14,4 @@ THe project should be separated on layer format.
 
 # Reference
 
-The main reference to this proposal is Flutterando's proposal.
+The main reference to this proposal is [Flutterando's proposal](https://github.com/Flutterando/Clean-Dart/blob/master/README_en.md).
